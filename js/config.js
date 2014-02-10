@@ -1,16 +1,16 @@
 boomerang.factory('Config', function () {
     return {
         //modify these
-        'name'          : 'GDG Space Coast',
-        'id'            : '103959793061819610212',
-        'google_api'    : 'AIzaSyA9ALjr2iWvhf3Rsz9-bH0cEcDcrdkpuAg',
-        'pwa_id'        : '5915725140705884785', //picasa web album id, must belong to google+ id above
+        'name'          : 'GDG Utah',
+        'id'            : '111917982940065392922',
+        'google_api'    : 'AIzaSyBsUxgm9DJ_jCT0pBV84C_khbsr1PDTuD0',
+        'pwa_id'        : '', //picasa web album id, must belong to google+ id above
         'cover' : {
-            title : 'GWT.create',
-            subtitle : 'The largest event about GWT in 2013 with 2 days and more than 60 presentations.',
+            title : 'GDG Utah',
+            subtitle : "The best place to come and learn about \"What's New\" with Google",
             button : {
-                text : 'Register',
-                url : 'http://gwtcreate.com/'
+                text : 'Visit our G+ page',
+                url : 'https://plus.google.com/111917982940065392922/posts'
             }
         }
     };

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8fde168-e08a-41b3-b3e8-98b3cff8ec54" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/config.js" afterPath="$PROJECT_DIR$/js/config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="gdgut-boomerang.iws" />
@@ -26,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="38" selection-start="526" selection-end="526" vertical-scroll-proportion="0.20594713" vertical-offset="0" max-vertical-offset="908">
+            <state line="11" column="38" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="26" selection-start="2397" selection-end="2397" vertical-scroll-proportion="-22.23077" vertical-offset="0" max-vertical-offset="867">
+            <state line="43" column="95" selection-start="2824" selection-end="2824" vertical-scroll-proportion="0.8287982" vertical-offset="0" max-vertical-offset="884">
               <folding />
             </state>
           </provider>
@@ -57,8 +56,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/config.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -185,16 +184,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="26" selection-start="2397" selection-end="2397" vertical-scroll-proportion="-22.23077" vertical-offset="0" max-vertical-offset="867">
+        <state line="11" column="38" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/config.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="526" selection-end="526" vertical-scroll-proportion="0.20594713" vertical-offset="0" max-vertical-offset="908">
+        <state line="43" column="95" selection-start="2824" selection-end="2824" vertical-scroll-proportion="0.8287982" vertical-offset="0" max-vertical-offset="884">
           <folding />
         </state>
       </provider>
